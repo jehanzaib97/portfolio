@@ -50,4 +50,4 @@ Use freely, credit appreciated.
 
 ---
 
-Made with 💜 by Alex Chen – [alex@alexchen.dev](mailto:alex@alexchen.dev)
+Made with 💜 by Jehanzaib Khan – [brootsware@gmail.com](mailto:brootsware@gmail.com)
