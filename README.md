@@ -50,8 +50,4 @@ Use freely, credit appreciated.
 
 ---
 
-<<<<<<< HEAD
 Made with 💜 by Jehanzaib Khan – [brootsware@gmail.com](mailto:brootsware@gmail.com)
-=======
-Made with 💜 by Jehanzaib Khan – [brootsware@gmail.com](mailto:brootsware@gmail.com)
->>>>>>> ad771540e9cc012009657f08bb406f34b5a48d68
